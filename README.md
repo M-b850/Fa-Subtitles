@@ -12,7 +12,8 @@ Download VLC from this [Link](https://www.videolan.org/).
 Download VLC from this [Link](https://www.videolan.org/).
 ~~~
 1. Install VLC.
-2. Open tab by this address: VLC(or Menu) -> Preferences -> Subtitles / OSD.
-3. In Default Encoding field choose Arabic(Windows - 1256).
+2. Go to: VLC(or Tools) -> Preferences -> Subtitles / OSD.
+3. In Default Encoding field choose: Arabic(Windows - 1256).
 4. Then click save and restart VLC.
 ~~~
+**Note: On macOS, you must click VLC in the menu bar, but on Windows and Linux, it will name Tools.**
